@@ -4,6 +4,6 @@
 3. download aplikasi IndoPOSTag
 4. import database aplikasi IndoPOSTag (sql database aplikasi IndoPOSTag berada di direktori IndoPOSTag/db_postag.sql) ke phpmyadmin anda dengan nama database db_postag
 5. setelah berhasil download aplikasi dan import database, jalanakan aplikasi dengan mengetik url http://localhost/analisa_sentimen/public/login, 
-username : admin123@gmail.com
-pass : admin123
+<br>username : admin123@gmail.com
+<br>password : admin123
 6. selamat anda sudah bisa mengakses aplikasi yang sudah penulis buat
